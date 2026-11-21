@@ -2,9 +2,12 @@
 """The Poster for a Place That Isn't There — MIRALUNE.
 
 Deterministic PIL travel poster (1024x1024 PNG) for an invented lake
-city at night: aurora over a still lake, a pale Moon Arch standing in
-the water, crescent boats with lanterns. The only text in the picture
-is the place name. No network; fixed-seed pseudo-random detail only.
+city at night: green aurora ribbons over a still lake, a full moon,
+a pale Moon Arch standing in the water with its mirror reflection,
+stilt houses with lit windows, and crescent boats with lanterns.
+The only text in the picture is the place name, set in the deep
+indigo band at the foot. No network; fixed-seed pseudo-random
+detail only (stars, ripples, grain).
 """
 import os
 import random
